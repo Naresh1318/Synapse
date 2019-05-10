@@ -1,7 +1,7 @@
 # Synapse
 
 <p align=center>
-<img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/icon.png?token=ADHNPQPUPK64BFXFRSBOF5242WNMC" width=300 />
+<img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/icon.png" width=300 />
 </p>
 
 Synapse is designed to allow BCI experiments to be performed using MATLAB and Python. It currently only supports amplifiers provided by Neuralynx with the option to easily add other amplifiers if needed.
@@ -31,7 +31,7 @@ Synapse is designed to allow BCI experiments to be performed using MATLAB and Py
 This experiment required at least two workstations and two monitors to get the job done. The connections to be made between them and their respective roles have been discussed next:
 
 <p align=center>
-<img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/hardware_setup.png?token=ADHNPQKLDP5BIGU7TOGXHBK42WP4O" width=600 />
+<img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/hardware_setup.png" width=600 />
 </p>
 
 
@@ -47,4 +47,5 @@ As can be seen from the folders present in the repository, the entire task is di
 3. [Stage\_3](https://github.com/Naresh1318/ECoG_BCI/tree/master/Stage_3_online): This stage uses the trained model to perform the BCI task in realtime. 
 
    ***More details on these stages including the role of each of the machines can be found in their respective folder or by clicking on them.***​
+
 
