@@ -27,6 +27,7 @@ Synapse is designed to allow BCI experiments to be performed using MATLAB and Py
 * Install these on both the acquisition and presentation machines.
 
 
+### Hardware Setup
 
 This experiment required at least two workstations and two monitors to get the job done. The connections to be made between them and their respective roles have been discussed next:
 
@@ -35,8 +36,9 @@ This experiment required at least two workstations and two monitors to get the j
 </p>
 
 
+The first workstation, referred to as the Pegasus Machine, performs data collection and model training. The second workstation, known as the Presentation Machine, is responsible for running the presentation and performing the online BCI task using the trained model.
 
-The first workstation, referred to as the Acquisition Machine, performs data collection and model training. The second workstation, known as the Presentation Machine, is responsible for running the presentation and performing the online BCI task using the trained model.
+### Experimental Stages
 
 As can be seen from the folders present in the repository, the entire task is divided into 3 main stages:
 
