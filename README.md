@@ -40,11 +40,11 @@ The first workstation, referred to as the Acquisition Machine, performs data col
 
 As can be seen from the folders present in the repository, the entire task is divided into 3 main stages:
 
-1. *[Stage\_1](https://github.com/Naresh1318/ECoG_BCI/tree/master/Stage_1_signal_acquisition)*: This stage involves data collection used to train the classification model before performing the realtime BCI task. Here, the user is presented with arrows that indicate the imaginary movements to be performed. 
+1. *[Stage\_1](https://github.com/Naresh1318/Synapse/tree/master/Stage_1_signal_acquisition)*: This stage involves data collection used to train the classification model before performing the realtime BCI task. Here, the user is presented with arrows that indicate the imaginary movements to be performed. 
 
-2. [Stage\_2](https://github.com/Naresh1318/ECoG_BCI/tree/master/Stage_2_training): This stage is mainly concerned with training the classification model using the data collected in the previous stage.
+2. [Stage\_2](https://github.com/Naresh1318/Synapse/tree/master/Stage_2_training): This stage is mainly concerned with training the classification model using the data collected in the previous stage.
 
-3. [Stage\_3](https://github.com/Naresh1318/ECoG_BCI/tree/master/Stage_3_online): This stage uses the trained model to perform the BCI task in realtime. 
+3. [Stage\_3](https://github.com/Naresh1318/Synapse/tree/master/Stage_3_online): This stage uses the trained model to perform the BCI task in realtime. 
 
    ***More details on these stages including the role of each of the machines can be found in their respective folder or by clicking on them.***​
 
