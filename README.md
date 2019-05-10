@@ -1,8 +1,8 @@
 # Synapse
 
-![icon](https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/icon.png?token=ADHNPQPUPK64BFXFRSBOF5242WNMC)
-
-<img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/icon.png?token=ADHNPQPUPK64BFXFRSBOF5242WNMC" width=2rem/>
+<p align=center>
+<img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/icon.png?token=ADHNPQPUPK64BFXFRSBOF5242WNMC" width=300 />
+</p>
 
 Synapse is designed to allow BCI experiments to be performed using MATLAB and Python. It currently only supports amplifiers provided by Neuralynx with the option to easily support other amplifiers if needed.
 
