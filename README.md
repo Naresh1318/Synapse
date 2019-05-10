@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/icon.png?token=ADHNPQPUPK64BFXFRSBOF5242WNMC" width=300 />
 </p>
 
-Synapse is designed to allow BCI experiments to be performed using MATLAB and Python. It currently only supports amplifiers provided by Neuralynx with the option to easily support other amplifiers if needed.
+Synapse is designed to allow BCI experiments to be performed using MATLAB and Python. It currently only supports amplifiers provided by Neuralynx with the option to easily add other amplifiers if needed.
 
 
 ### Requirements
@@ -28,9 +28,11 @@ Synapse is designed to allow BCI experiments to be performed using MATLAB and Py
 
 
 
-This experiment required at least two workstations and two monitors to get the job done. The initial connections to be made between them and their respective roles have been discussed next:
+This experiment required at least two workstations and two monitors to get the job done. The connections to be made between them and their respective roles have been discussed next:
 
-![Setup block diagram](https://i.ibb.co/YTtnzmf/ECo-G-BCI-connection-block-diagram.png)
+<p align=center>
+<img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/hardware_setup.png?token=ADHNPQKLDP5BIGU7TOGXHBK42WP4O" width=600 />
+</p>
 
 
 
