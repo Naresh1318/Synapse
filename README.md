@@ -32,7 +32,7 @@ Synapse is designed to allow BCI experiments to be performed using MATLAB and Py
 This experiment required at least two workstations and two monitors to get the job done. The connections to be made between them and their respective roles have been discussed next:
 
 <p align=center>
-<img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/hardware_setup.png" width=600 />
+<img src="https://raw.githubusercontent.com/Naresh1318/Synapse/master/README/hardware_setup.png" width=900 />
 </p>
 
 
