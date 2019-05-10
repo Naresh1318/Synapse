@@ -1,0 +1,14 @@
+# Ignore directory that contains datasets
+Data/
+
+# Ignore directory containing useless files
+Complete_trash/
+
+# Ignore .mat files
+*.mat
+
+# Ignore .asv files
+*.asv
+
+# Pegasus Matlab file
+MatlabNetComLogfile.txt
